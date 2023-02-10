@@ -2,7 +2,7 @@
 
 A simple full-stack GraphQL application that allows users to add books to a reading list and retrieve information about those books
 
-🚀 Installation
+### 🚀 Installation
 
 1. Clone the repository:
 
@@ -36,7 +36,7 @@ npm install
 npm start
 ```
 
-🛠️ Built With:
+### 🛠️ Built With:
 
 * React
 * Node.js
