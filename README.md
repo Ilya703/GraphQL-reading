@@ -1,23 +1,47 @@
-# Getting Started with [Fastify-CLI](https://www.npmjs.com/package/fastify-cli)
-This project was bootstrapped with Fastify-CLI.
+# GraphQL reading 📚
 
-## Available Scripts
+A simple full-stack GraphQL application that allows users to add books to a reading list and retrieve information about those books
 
-In the project directory, you can run:
+🚀 Installation
 
-### `npm run dev`
+1. Clone the repository:
 
-To start the app in dev mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```cmd
+git clone https://github.com/Ilya703/GraphQL-reading.git
+```
 
-### `npm start`
+2. Navigate to the server directory and install the dependencies:
 
-For production mode
+```cmd
+cd GraphQL-reading/server
+npm install
+```
 
-### `npm run test`
+3. Start the server:
 
-Run the test cases.
+```cmd
+npm start
+```
 
-## Learn More
+4. Navigate to the client directory and install the dependencies:
 
-To learn Fastify, check out the [Fastify documentation](https://www.fastify.io/docs/latest/).
+```cmd
+cd ../client
+npm install
+```
+
+5. Start the client:
+
+```cmd
+npm start
+```
+
+🛠️ Built With:
+
+* React
+* Node.js
+* Apollo Client
+* GraphQL
+* express-graphql
+* MongoDB Atlas
+* Mongoose
